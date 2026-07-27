@@ -13,14 +13,14 @@ CHAT_IDS = [
     "1280847575",  # kamu
 ]
 
-INTERVAL = "4h"
+INTERVAL = "1d"
 PERIOD = "60d"
 
 ATR_PERIOD = 2
 MULTIPLIER = 1
 
 
-MIN_VALUE = 2_000_000_000  # 2 Miliar (sesuai template terakhirmu)
+MIN_VALUE = 3_000_000_000  # 3 Miliar (sesuai template terakhirmu)
 
 # =========================
 # TELEGRAM
